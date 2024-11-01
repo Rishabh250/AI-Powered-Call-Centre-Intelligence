@@ -7,8 +7,8 @@ This milestone involves setting up the development environment and implementing 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone  https://github.com/Rishabh250/AI-Powered-Call-Centre-Intelligence.git
+   cd AI-Powered-Call-Centre-Intelligence
    ```
 
 2. **Install Dependencies**:
